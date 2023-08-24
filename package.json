@@ -1,0 +1,21 @@
+{
+  "name": "spacecamp",
+  "displayName": "SpaceCamp",
+  "description": "SpaceCamp is an attractive, comfortable, and legible colorscheme for VSCode, inspired by the original SpaceCamp for Vim by Jared Gorski.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceCamp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpaceCamp-color-theme.json"
+      }
+    ]
+  }
+}
