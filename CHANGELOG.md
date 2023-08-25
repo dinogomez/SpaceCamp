@@ -18,7 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fixed few problems on Python syntax highlighting
 
-## [0.0.2b] 25/08/2023
+## [0.0.3] 25/08/2023
 
 ### Fixed
 
