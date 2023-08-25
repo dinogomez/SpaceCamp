@@ -1,10 +1,10 @@
 # SpaceCamp Theme [VSCODE]
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+![Alt text](images/spacecamp-js.png)
+![Alt text](images/spacecamp-py.png)
+![Alt text](images/spacecamp-rb.png)
 
-
-
-![Alt text](images/image.png)
 
 ## Installation
 
