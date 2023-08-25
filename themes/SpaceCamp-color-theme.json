@@ -7,7 +7,7 @@
 		"foreground": "#c9c9c9"
 	  },
 	  "variable.constant": {
-		"foreground": "#f66100"
+		"foreground": "#DEDEDE"
 	  },
 	  "variable.defaultLibrary": {
 		"foreground": "#ffffff"
@@ -461,7 +461,7 @@
 		"name": "python parameter",
 		"scope": "variable.parameter.function.language.python",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#DEDEDE"
 		}
 	  },
 	  {
@@ -482,7 +482,7 @@
 		"name": "pyCs",
 		"scope": "variable.parameter.function.python",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#DEDEDE"
 		}
 	  },
 	  {
@@ -503,7 +503,7 @@
 		"name": "python placeholder reset to normal string",
 		"scope": "constant.character.format.placeholder.other.python",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#E7C547"
 		}
 	  },
 	  {
@@ -764,7 +764,7 @@
 		"name": "Constants",
 		"scope": "constant",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#D8FA3B"
 		}
 	  },
 	  {
@@ -1143,14 +1143,14 @@
 		"name": "support php constants",
 		"scope": "support.constant.core.rust",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#DEDEDE"
 		}
 	  },
 	  {
 		"name": "support php constants",
 		"scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#DEDEDE"
 		}
 	  },
 	  {

@@ -6,9 +6,9 @@
 
 ![Alt text](images/image.png)
 
-## Origin
+## About
 
-SpaceCamp is an attractive, comfortable, and legible colorscheme for VSCode, inspired and ported from the original [SpaceCamp](https://github.com/jaredgorski/SpaceCamp/tree/master
+SpaceCamp is dark theme for VS Code, inspired and ported from the original [SpaceCamp](https://github.com/jaredgorski/SpaceCamp/tree/master
 ) for Vim by [Jared Gorski](https://github.com/jaredgorski)
 
 
