@@ -24,3 +24,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fixed few problems on JS highlighting
 - Fixed Changelog
+
+## [0.0.4] 25/08/2023
+
+### Added
+
+- Added Support for TS,TSX and full JS highlighting
+

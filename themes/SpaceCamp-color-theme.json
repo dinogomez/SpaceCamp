@@ -105,13 +105,8 @@
 		  "foreground": "#f66100"
 		}
 	  },
-	  {
-		"name": "punctuation.definition",
-		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
-		"settings": {
-		  "foreground": "#57ba37"
-		}
-	  },
+	
+
 	  {
 		"name": "Text",
 		"scope": "variable.parameter.function",
@@ -599,7 +594,7 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#91aadf"
+		  "foreground": "#EEEEEE"
 		}
 	  },
 	  {
@@ -778,14 +773,43 @@
 		"name": "Tags",
 		"scope": "entity.name.tag",
 		"settings": {
-		  "foreground": "#f0d50c"
+		  "foreground": "#CF73E6"
 		}
 	  },
 	  {
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
-		  "foreground": "#f66100"
+		  "foreground": "#EEEEEE"
+		}
+	  },
+	  {
+		"name": "Quoted Double TSX",
+		"scope": "string.quoted.double.tsx,string.quoted.double.ts,string.quoted.double.js",
+		"settings": {
+		  "foreground": "#7ccc62"
+		}
+	  },
+	  {
+		"name": "Support Class Component TSX",
+		"scope": "support.class.component.tsx,support.class.component.ts,support.class.component.js",
+		"settings": {
+		  "foreground": "#91AADF"
+		}
+	  },
+	  {
+		"name": "Storage Type Function TSX",
+		"scope": "storage.type.function.tsx,storage.type.function.ts,storage.type.function.js",
+		"settings": {
+		  "foreground": "#91AADF"
+		}
+	  },
+	
+	  {
+		"name": "String Quoted Function TSX",
+		"scope": "string.quoted.single.tsx,string.template.tsx,string.quoted.single.tsx,string.template.ts,string.quoted.single.tsx,string.template.js",
+		"settings": {
+		  "foreground": "#F0D50C"
 		}
 	  },
 	  {
@@ -1481,7 +1505,7 @@
 		  "constant.character.entity"
 		],
 		"settings": {
-		  "foreground": "#f0d50c"
+		  "foreground": "#ad1952"
 		}
 	  },
 	  {
