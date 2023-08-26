@@ -696,7 +696,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#c9c9c9"
+		  "foreground": "#91aadf"
 		}
 	  },
 	  {
@@ -780,7 +780,7 @@
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
-		  "foreground": "#EEEEEE"
+		  "foreground": "#91AADF"
 		}
 	  },
 	  {
@@ -1013,7 +1013,7 @@
 		"name": "illegal",
 		"scope": "invalid.illegal",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#cf73e6"
 		}
 	  },
 	  {
@@ -1147,6 +1147,13 @@
 		"scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
 		"settings": {
 		  "foreground": "#ffffff"
+		}
+	  },
+	  {
+		"name": "js call-function",
+		"scope": "meta.function-call.js",
+		"settings": {
+		  "foreground": "#91aadf"
 		}
 	  },
 	  {
