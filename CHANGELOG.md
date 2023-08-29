@@ -31,3 +31,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added Support for TS,TSX and full JS highlighting
 
+## [0.0.7] 28/08/2023
+
+- Added XML Highlighting with CDATA JS
