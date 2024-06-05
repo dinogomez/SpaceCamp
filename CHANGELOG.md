@@ -34,3 +34,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.7] 28/08/2023
 
 - Added XML Highlighting with CDATA JS
+
+## [0.0.8] 05/06/2023
+
+- @theohogberg Set template literals for ts,tsx,js files to green for improved clarity
+
